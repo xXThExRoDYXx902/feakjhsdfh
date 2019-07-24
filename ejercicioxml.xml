@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding= "UTF-8"?>
+
+<estudiante id="317204913>
+  <nombre>Yazmin</nombre>
+  <edad>19</edad>
+  <correo>yaz_yayiiz@hotmail.com</correo>
+  <sexo>femenino</sexo>
+</estudiante>
+
+<estudiante id="420004482">
+  <nombre>Fernando</nombre>
+  <edad>19</edad>
+  <correo>xxthexrodyxx@gmail.com</correo>
+  <sexo>Masculino</sexo>
+</estudiante>

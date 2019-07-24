@@ -4,10 +4,10 @@ echo "inicia el script 2"
 
 ./s1.sh
 
-touch $parametro
+touch $1
 
 ls .
 
-mv $parametro $parametro2
+mv $1 $2
 
 echo "Fin del script 2"
